@@ -36,11 +36,6 @@ The project utilizes two primary datasets:
 
 ### 1️⃣ Clone the repository:
 
-```bash
-git clone https://github.com/27abhishek27/British-Airways-Job-Simulation.git
-cd British-Airways-Job-Simulation
-```
-
 ### 2️⃣ Install dependencies:
 
 Ensure you have the following Python packages installed:
